@@ -12,3 +12,5 @@ How was the district summary affected?
 On the first analysis, the district summary gave the following output:
 ![image](https://user-images.githubusercontent.com/78698456/111879916-e4a78300-897e-11eb-99c9-4edcd3ebb294.png)
 
+During the second analysis, withrawing 9th grades for THS, the output resulted as follows:
+![image](https://user-images.githubusercontent.com/78698456/111880059-8cbd4c00-897f-11eb-8f73-8efa55c7b9af.png)
